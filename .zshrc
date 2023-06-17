@@ -33,3 +33,5 @@ newreact(){
 newnext(){
     npx create-next-app
 }
+
+alias airbnb-lint="npm i eslint-config-airbnb"
